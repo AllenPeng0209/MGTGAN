@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e06cb668-b35b-4191-878c-6a2a20c7b9a1" name="Music Transfer" url="http://166.111.17.31">
+        <fileTransfer host="166.111.17.31" port="8081" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8081" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
