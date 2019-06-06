@@ -1,5 +1,5 @@
 # MGTGAN - Multi-track-Symbolic-Music-Genre-Transfer
-Multi-track &amp; Multi-domain Symbolic Music Genre Transfer
+Multi-track Symbolic Music Genre Transfer
 
 
 Built a cyclegan-based model to realize music style transfer between different musical domains.
