@@ -1,4 +1,4 @@
-# MGTGAN - Multi-track-Multi-domain-Symbolic-Music-Genre-Transfer
+# MGTGAN - Multi-track-Symbolic-Music-Genre-Transfer
 Multi-track &amp; Multi-domain Symbolic Music Genre Transfer
 
 
